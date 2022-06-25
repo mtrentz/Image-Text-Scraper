@@ -1,0 +1,6 @@
+__pycache__
+/classifications
+/venv
+*.log
+*.logs
+*.db
